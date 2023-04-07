@@ -71,13 +71,14 @@
   
   ### 🔥My Stats :
   
-  ![yicelwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wysiwyz&show_icons=true&theme=rose_pine)
+  <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wysiwyz&theme=one-dark-pro&background=000000)](https://git.io/streak-stats)
+  ![yicelwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wysiwyz&show_icons=true&theme=rose_pine&hide_border=true)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wysiwyz&theme=rose_pine&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wysiwyz&layout=compact&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Cryptocurrency_final](https://github-readme-stats.vercel.app/api/pin/?username=yicelwen&repo=Cryptocurrency_final&theme=rose_pine&hide_border=true)](https://github.com/yicelwen/Cryptocurrency_final)  
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wysiwyz&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-
+  </div>
  ---
+ 
 ### ✍️ Blog Posts :
 - [where yiwen stores important wyz](https://wysiwyz.github.io)
 <!-- BLOG-POST-LIST:START -->
