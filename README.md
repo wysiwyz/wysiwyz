@@ -6,12 +6,13 @@
   
   <!--Social Networks and their badges are organized here-->
   <div id="badges">
-  <a href="https://www.linkedin.com/in/yi19cel22wen34/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/yi19cel22wen34/" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://discordapp.com/users/764144401655922698">
+  <!--a href="https://discordapp.com/users/764144401655922698">
     <img src="https://img.shields.io/badge/Discord-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
-  </a>
+  </a-->
+  </label>
   <a href="https://www.goodreads.com/user/show/34521788-yiwen-c">
     <img src="https://img.shields.io/badge/Goodreads-burlywood?logo=goodreads&logoColor=white&style=for-the-badge" alt="Goodreads Badge"/>
   </a>
