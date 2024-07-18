@@ -75,7 +75,7 @@
   <div align="center">
   
   ![yicelwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wysiwyz&show_icons=true&theme=rose_pine&hide_border=true)
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wysiwyz&theme=rose_pine&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wysiwyz&layout=compact&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Cryptocurrency_final](https://github-readme-stats.vercel.app/api/pin/?username=yicelwen&repo=Cryptocurrency_final&theme=rose_pine&hide_border=true)](https://github.com/yicelwen/Cryptocurrency_final)  
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wysiwyz&theme=rose_pine&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wysiwyz&layout=compact&theme=rose_pine&hide_border=true&hide=css,javascript,html)](https://github.com/anuraghazra/github-readme-stats) [![Cryptocurrency_final](https://github-readme-stats.vercel.app/api/pin/?username=yicelwen&repo=Cryptocurrency_final&theme=rose_pine&hide_border=true)](https://github.com/yicelwen/Cryptocurrency_final)  
   
   </div>
  ---
